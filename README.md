@@ -1,5 +1,7 @@
 # ember-non-context-shifting-partials
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Turbo87/ember-non-context-shifting-partials.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation

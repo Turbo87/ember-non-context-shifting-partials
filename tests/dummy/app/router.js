@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('direct', { path: '/' });
   this.route('partial');
   this.route('x-partial');
+  this.route('component');
 });
 
 export default Router;

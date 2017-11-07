@@ -9,6 +9,7 @@ const Router = EmberRouter.extend({
 Router.map(function() {
   this.route('direct', { path: '/' });
   this.route('partial');
+  this.route('x-partial');
 });
 
 export default Router;
